@@ -1,0 +1,9 @@
+.dockerignore
+.git*
+log/*
+tmp/*
+*.md
+!README.md
+Gemfile.lock
+Dockerfile
+docker-compose.yml
